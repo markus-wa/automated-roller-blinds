@@ -1,0 +1,12 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#define wifiSSID "<SSID>"
+#define wifiPassword "<abc>"
+
+#define mqttHost "<example.com>"
+#define mqttPort 1883
+#define mqttUser "<user>"
+#define mqttPassword "<123>"
+
+#endif
